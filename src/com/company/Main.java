@@ -4,10 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        HomeWorkApp.printThreeWords();
+        //lesson 1
+       /* HomeWorkApp.printThreeWords();
         HomeWorkApp.checkSumSign();
         HomeWorkApp.printColor();
-        HomeWorkApp.compareNumbers();
+        HomeWorkApp.compareNumbers();*/
+        lesson4.Run(args);
 
         }
 
