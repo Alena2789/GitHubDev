@@ -34,6 +34,8 @@ public class Main {
         isEquals = bOrangeFull.Compare(bApple2.getBoxFruits());
         System.out.println("Корзина 1 с апельсинами больше чем коризна 2 с яблоками? " + isEquals);
 
+        //Выдаст ошибку компиляции, что верно, так как по заданию нельзя яблоки высыпать в апельсины bApple2.Move(bOrangeFull);
+
     }
 
 }
